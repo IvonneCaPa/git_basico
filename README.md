@@ -10,3 +10,7 @@ git config --global -e para saber la configuracion
 4. git status, nos dice la informacion de nuestro proyecto
 5. git add, pasamos al stage, segundo estado. git add (los archivos que queremos cambiar de estado)
 otra opcion para añadirlo es git add .
+6. Lo pasamos al commit (version 1)
+git commit -m "el mensaje que queremos que acompañe a esta version que subimos" (-m de mensaje)
+version 2: hacer el add y commit a la vez
+git commit -a -m 
