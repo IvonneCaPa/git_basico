@@ -14,3 +14,4 @@ otra opcion para añadirlo es git add .
 git commit -m "el mensaje que queremos que acompañe a esta version que subimos" (-m de mensaje)
 version 2: hacer el add y commit a la vez
 git commit -a -m 
+Si tenemos un archivo que no queremos tener en cuenta en el proyecto, solo para información personal
