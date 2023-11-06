@@ -15,3 +15,5 @@ git commit -m "el mensaje que queremos que acompañe a esta version que subimos"
 version 2: hacer el add y commit a la vez
 git commit -a -m 
 Si tenemos un archivo que no queremos tener en cuenta en el proyecto, solo para información personal
+git branch -M main es para cambiar el nombre de nuestra rama master por main, para que sea mas global
+git pues -u origen main es por si no lo cambiamos
